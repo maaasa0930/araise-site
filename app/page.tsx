@@ -352,7 +352,7 @@ export default function Home() {
                   { label: "最寄り駅", value: "東急田園都市線・東急大井町線\n二子玉川駅 徒歩5分" },
                   { label: "営業時間", value: "12:00〜24:00（最終受付 22:30）" },
                   { label: "定休日", value: "不定休" },
-                  { label: "電話", value: "※ご予約はホットペッパービューティーより" },
+                  { label: "電話", value: "03-6411-7315" },
                 ].map((item) => (
                   <div key={item.label}>
                     <dt
